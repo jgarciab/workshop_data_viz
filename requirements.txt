@@ -2,3 +2,4 @@ matplotlib
 seaborn
 pandas
 datetime
+openpyxl
