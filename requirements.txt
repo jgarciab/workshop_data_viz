@@ -3,3 +3,6 @@ seaborn
 pandas
 datetime
 openpyxl
+bokeh
+descartes
+geopandas
