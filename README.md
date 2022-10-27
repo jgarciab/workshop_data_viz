@@ -2,7 +2,7 @@
 Data visualization workshop focused on principles of design and perception.
 - Place: Amsterdam data science center, February 2022 (introduction); November 2022 (advanced)
 - [Slides introduction](https://github.com/jgarciab/workshop_data_viz/raw/main/introduction/slides/20220218.pdf)
-- [Slides introduction](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced/slides/20221028.pdf)
+- [Slides advanced](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced/slides/20221028.pdf)
 - Run the code without installing anything: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgarciab/workshop_data_viz/HEAD)
 
 
@@ -31,8 +31,8 @@ Data visualization workshop focused on principles of design and perception.
 - Part 5: Programming
 
 ## Structure (Advanced)
-- Introduction
-- Interactivity and where to use it
-- Recap of introduction
-- Storytelling
+- Interactivity using bokeh and where to use it
+- Recap of introduction to visualization
+- Cycle of visualization + data storytelling
+
 
