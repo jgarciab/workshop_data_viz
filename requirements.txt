@@ -6,3 +6,4 @@ openpyxl
 bokeh
 descartes
 geopandas
+panel
