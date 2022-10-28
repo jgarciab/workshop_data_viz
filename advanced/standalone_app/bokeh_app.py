@@ -1,13 +1,11 @@
+# Example from  https://github.com/bokeh/bokeh/blob/2.4.3/examples/howto/server_embed/notebook_embed.ipynb)
+
 # Imports bokeh
-from bokeh.io import show, output_notebook, output_file # others: push_notebook
-from bokeh.models import ColumnDataSource, LogAxis, HoverTool, RangeTool, LogColorMapper, GeoJSONDataSource, LinearColorMapper, CategoricalColorMapper, Slider
+from bokeh.models import ColumnDataSource, Slider
 from bokeh.layouts import row, column   # join plots
 from bokeh.plotting import figure       # create figure
-from bokeh.tile_providers import get_provider, WIKIMEDIA # for maps, others: CARTODBPOSITRON, STAMEN_TERRAIN, STAMEN_TONER, ESRI_IMAGERY, OSM
-from bokeh.palettes import YlGnBu9 as YlGnBu,  YlOrBr9, YlOrBr4 # palettes
-import panel as pn
-
 from bokeh.sampledata.sea_surface_temperature import sea_surface_temperature
+import panel as pn
 
 def bkapp():
     # read data and convert it to bokeh's data structure
