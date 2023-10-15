@@ -7,3 +7,4 @@ bokeh
 descartes
 geopandas
 panel
+hvplot
