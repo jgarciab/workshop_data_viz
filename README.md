@@ -4,8 +4,8 @@ Data visualization is more than just pretty charts; it's a powerful way to conve
 
 
 In the morning you will learn and apply the perception, design and storytellings principles that allow you to create effective and efficient visualizations, and you will craft engaging visuals with your own datasets. In the afternoon you will learn how to create interactive visualizations and apps using `hvPlot` and `panel`.
-[Slides morning](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced/slides/20231019_intro.pdf)
-[Slides afternoon](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced/slides/20231019_interactive.pdf)
+- [Slides morning](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced/slides/20231019_intro.pdf) on the principles of design, perception and storytelling.
+- [Slides afternoon](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced/slides/20231019_interactive.pdf) on interactive data visualization.
 
 
 
