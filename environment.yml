@@ -1,0 +1,21 @@
+name: viz
+channels:
+  - conda-forge
+dependencies:
+  - seaborn
+  - scikit-learn
+  - numpy
+  - pandas
+  - jupyterlab
+  - matplotlib
+  - geopandas
+  - descartes
+  - holoviews
+  - notebook
+  - hvplot
+  - cartopy
+  - panel
+  - openpyxl
+  - geoviews
+  - fastparquet
+prefix: /Users/garci061/miniforge3/envs/viz
