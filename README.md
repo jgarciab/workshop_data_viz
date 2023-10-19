@@ -1,38 +1,37 @@
-# Workshop on data visualizations
-Data visualization workshop focused on principles of design and perception.
-- Place: Amsterdam data science center, February 2022 (introduction); November 2022 (advanced)
-- [Slides introduction](https://github.com/jgarciab/workshop_data_viz/raw/main/introduction/slides/20220218.pdf)
-- [Slides advanced](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced/slides/20221028.pdf)
-- Run the code without installing anything: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgarciab/workshop_data_viz/HEAD)
+# Workshop on data visualization
+
+Data visualization is more than just pretty charts; it's a powerful way to convey complex information clearly and efficiently. Understanding the significance of visual storytelling can greatly enhance decision-making and communication. In this workshop, you'll not only grasp why data visualization is pivotal but also dive into its core principles. By the end of the workshop, you'll be able to turn data into clear and engaging visuals, no matter your starting point.
 
 
-## Summary
-### DATA VISUALIZATION
-- Efficient and effective to show data —> Reduce cognitive load
+In the morning you will learn and apply the perception, design and storytellings principles that allow you to create effective and efficient visualizations, and you will craft engaging visuals with your own datasets. In the afternoon you will learn how to create interactive visualizations and apps using `hvPlot` and `panel`.
+[Slides](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced/slides/20231019.pdf)
 
-### WHY DO WE WANT TO REDUCE COGNITIVE LOAD
-- More willing to read your paper
-- More likely to understand the data/results
-- More willing to accept the results
-- More likely to remember them
 
-### HOW TO DO IT?
-- Use effective channels and graphical objects
-- Use the CRAP (contrast, repetition, alignment, proximity) principles of design
-  - Contrast: Remove clutter and focus attention
-- Tell a story
 
-## Structure (Introduction)
+Run the code without installing anything:
+- On [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgarciab/workshop_data_viz/HEAD)
+- On Google Colab: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgarciab/workshop_data_viz) (you will need to install the libraries manually, but you don't lose your work)
+
+
+## Program
+### Morning: 
+Focus on following a cycle of visualization + data storytelling
 - Introduction
 - Part 1: Understanding the context
 - Part 2: Data visualization theory
 - Part 3: Design considerations
 - Part 4: Storytelling
-- Part 5: Programming
 
-## Structure (Advanced)
-- Interactivity using bokeh and where to use it
-- Recap of introduction to visualization
-- Cycle of visualization + data storytelling
+### Afternoon
+- When do we need interactive visualizations
+- Using `hvPlot` to visualize data
+- Using `panel` to create apps
+- Adding reactive components
+- Exporting apps to pyodide
 
 
+
+## Previous editions
+- Place: Amsterdam data science center, February 2022 (introduction); November 2022 (advanced); October 2023 (advanced 2)
+- [Slides introduction](https://github.com/jgarciab/workshop_data_viz/raw/main/introduction/slides/20220218.pdf)
+- [Slides advanced](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced/slides/20221028.pdf)
