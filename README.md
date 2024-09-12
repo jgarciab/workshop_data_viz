@@ -4,17 +4,17 @@ Data visualization is more than just pretty charts; it's a powerful way to conve
 
 
 In the morning you will learn and apply the perception, design and storytellings principles that allow you to create effective and efficient visualizations, and you will craft engaging visuals with your own datasets. In the afternoon you will learn how to create interactive visualizations and apps using `hvPlot` and `panel`.
-- [Slides morning](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced/slides/20231019_intro.pdf) on the principles of design, perception and storytelling.
-- [Slides afternoon](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced/slides/20231019_interactive.pdf) on interactive data visualization.
-
+- [Slides morning](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced_2024/slides/20240919_intro.pdf) on the principles of design, perception and storytelling.
+- [Slides afternoon](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced_2024/slides/20240919_interactive.pdf) on interactive data visualization.
 
 
 Run the code without installing anything:
 - On [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgarciab/workshop_data_viz/HEAD)
-- On Google Colab: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgarciab/workshop_data_viz) (you will need to install the libraries manually, but you don't lose your work)
+- On Google Colab: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgarciab/workshop_data_viz) (you will need to install the libraries manually `!pip install hvplot panel jupyter_bokeh`, but you don't lose your work if you make a copy of the notebook. You'll also need to wrap the hvplot objects using pn.panel, e.g., `pn.panel(scatter)` and upload the data manually).
 
 
-## Program
+
+## Program (6 hours)
 ### Morning: 
 Focus on following a cycle of visualization + data storytelling
 - Introduction
@@ -28,11 +28,9 @@ Focus on following a cycle of visualization + data storytelling
 - Using `hvPlot` to visualize data
 - Using `panel` to create apps
 - Adding reactive components
-- Exporting apps to pyodide
-
+- Exporting apps using pyodide
 
 
 ## Previous editions
-- Place: Amsterdam data science center, February 2022 (introduction); November 2022 (advanced); October 2023 (advanced 2)
-- [Slides introduction](https://github.com/jgarciab/workshop_data_viz/raw/main/introduction/slides/20220218.pdf)
-- [Slides advanced](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced/slides/20221028.pdf)
+- Place: Amsterdam data science center, February 2022 (introduction); November 2022 (introduction + advanced); October 2023 (introduction + advanced + interactive), September 2024 (introduction + advanced + interactive)
+
