@@ -13,7 +13,12 @@ dependencies:
   - holoviews
   - notebook
   - hvplot
+  - cartopy
   - panel
   - openpyxl
   - geoviews
   - fastparquet
+  - dask
+  - ipython
+  - jupyter
+
