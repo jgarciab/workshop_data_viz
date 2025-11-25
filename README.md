@@ -4,8 +4,8 @@ Data visualization is more than just pretty charts; it's a powerful way to conve
 
 
 In the morning you will learn and apply the perception, design and storytellings principles that allow you to create effective and efficient visualizations, and you will craft engaging visuals with your own datasets. In the afternoon you will learn how to create interactive visualizations and apps using `hvPlot` and `panel`.
-- [Slides morning](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced_2024/slides/20240919_intro.pdf) on the principles of design, perception and storytelling.
-- [Slides afternoon](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced_2024/slides/20240919_interactive.pdf) on interactive data visualization.
+- [Slides morning](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced_2025/slides/20251127_intro.pdf) on the principles of design, perception and storytelling.
+- [Slides afternoon](https://github.com/jgarciab/workshop_data_viz/raw/main/advanced_2025/slides/20251127_interactive.pdf) on interactive data visualization.
 
 
 Run the code without installing anything:
@@ -28,9 +28,10 @@ Focus on following a cycle of visualization + data storytelling
 - Using `hvPlot` to visualize data
 - Using `panel` to create apps
 - Adding reactive components
+- Comparing `hvPlot+panel` to `marimo` and `streamlit`
 - Exporting apps using pyodide
 
 
 ## Previous editions
-- Place: Amsterdam data science center, February 2022 (introduction); November 2022 (introduction + advanced); October 2023 (introduction + advanced + interactive), September 2024 (introduction + advanced + interactive)
+- Place: Amsterdam data science center, February 2022 (introduction); November 2022 (introduction + advanced); October 2023 (introduction + advanced + interactive), September 2024 (introduction + advanced + interactive), November 2025 (introduction + advanced + interactive)
 
