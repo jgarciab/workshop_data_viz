@@ -10,7 +10,7 @@ In the morning you will learn and apply the perception, design and storytellings
 
 Run the code without installing anything:
 - On [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgarciab/workshop_data_viz/HEAD)
-- On Google Colab: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgarciab/workshop_data_viz) (you will need to install the libraries manually `!pip install hvplot panel jupyter_bokeh`, but you don't lose your work if you make a copy of the notebook. You'll also need to wrap the hvplot objects using pn.panel, e.g., `pn.panel(scatter)` and upload the data manually).
+- On Google Colab: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgarciab/workshop_data_viz) (you will need to install the libraries manually, e.g. `!pip install hvplot panel jupyter_bokeh`, but you don't lose your work if you make a copy of the notebook. You'll also need to wrap the hvplot objects using pn.panel, e.g., `pn.panel(scatter)` and upload the data manually).
 
 
 
